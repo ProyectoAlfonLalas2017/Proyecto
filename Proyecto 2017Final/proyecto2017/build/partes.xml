@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<partes>
+    <parte>
+        <idparte>3</idparte>
+        <fecha>2003-07-09</fecha>
+        <kminicio>1.0</kminicio>
+        <kmfin>3</kmfin>
+        <estado>cerrado</estado>
+        <gasoil>0.0</gasoil>
+        <peaje>0.0</peaje>
+        <dietas>0.0</dietas>
+        <otros>0.0</otros>
+        <incidencia>3</incidencia>
+        <hExtra>0.0</hExtra>
+    </parte>
+</partes>
